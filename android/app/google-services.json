@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "110452505671",
+    "project_id": "tiger-1f080",
+    "storage_bucket": "tiger-1f080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110452505671:android:b087118cbcdf5f683fc562",
+        "android_client_info": {
+          "package_name": "com.example.tiger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110452505671-ke8cpmf6mukrm37rrchsl4fml2jok72b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiger",
+            "certificate_hash": "1429acf09806e08428cc0b153fc8668c10669a4b"
+          }
+        },
+        {
+          "client_id": "110452505671-31t40p591s1lc59696p8ak68adsvd7hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSzUITlPPAbxnvWEG1bLBVaEB4MV6wpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110452505671-31t40p591s1lc59696p8ak68adsvd7hm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "110452505671-5fan6mame6oj3okpdj8bgfe0ov67jejv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tiger.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
